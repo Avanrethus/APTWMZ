@@ -7,7 +7,7 @@ namespace UnitTestProject1
     [TestFixture]
     public class UnitTest1
     {
-        [Test]
+        [Test] //kamil
         public void TestMethodPass()
         {
             Assert.IsTrue(true);
