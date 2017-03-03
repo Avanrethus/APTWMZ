@@ -7,13 +7,15 @@ namespace UnitTestProject1
     [TestFixture]
     public class UnitTest1
     {
-        //ZAMIANA kodu Kamila
+     
         [Test]
         public void TestMethodPass()
         {
             Assert.IsTrue(true);
         }
         [Test]
+        //ZAMIANA kodu Kamila
+        //ZAMIANA kodu Kamila
         public void TestMethodFail()
         {
             Assert.IsTrue(true);
