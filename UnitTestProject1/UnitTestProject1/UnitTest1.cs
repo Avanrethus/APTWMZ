@@ -7,7 +7,7 @@ namespace UnitTestProject1
     [TestFixture]
     public class UnitTest1
     {
-        //ZAMIANA KODU 
+        //ZAMIANA kodu Kamila
         [Test]
         public void TestMethodPass()
         {
