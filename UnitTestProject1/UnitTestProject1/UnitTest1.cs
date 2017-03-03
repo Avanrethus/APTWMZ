@@ -7,6 +7,7 @@ namespace UnitTestProject1
     [TestFixture]
     public class UnitTest1
     {
+        //Kamil
         [Test]
         public void TestMethodPass()
         {
