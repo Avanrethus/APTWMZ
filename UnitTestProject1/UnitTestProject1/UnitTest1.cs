@@ -7,6 +7,7 @@ namespace UnitTestProject1
     [TestFixture]
     public class UnitTest1
     {
+        //branch1 zmiany
         [Test]
         public void TestMethodPass()
         {
