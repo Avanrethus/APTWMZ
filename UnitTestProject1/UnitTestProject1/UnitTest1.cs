@@ -17,5 +17,6 @@ namespace UnitTestProject1
         {
             Assert.IsTrue(true);
         }
+        // moj trunk - nowy komentarz
     }
 }
